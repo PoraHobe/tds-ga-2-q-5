@@ -144,7 +144,7 @@
     "aggregations": {
         "electronics": {
             "count": 7,
-            "inventoryValue": 193060.8
+            "inventoryValue": 193040.8
         },
         "sports": {
             "count": 3,
